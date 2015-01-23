@@ -1,0 +1,8 @@
+bin/
+sbin/
+share/
+include/
+lib/
+libexec/
+LICENSE.txt
+README.txt
